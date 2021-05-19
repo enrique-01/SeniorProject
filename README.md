@@ -1,2 +1,12 @@
 # SeniorProject
-![caption](https://drive.google.com/file/d/1LHpPZxaweRroXpRmszNt7dMeqMuNfxAq/view?resourcekey)
+Goal of our Senior Project is to have an autonomous drone take data from a given area and create 3D models. 
+Currently we are able to create monocular Depth Maps by using the MiDaS 2.1 model and use Open3D to convert them into pointclouds and 3d models.
+
+Next step is to see if we can accelerate this on a Pnyq-Z2 board to see if real time is possible.
+
+
+
+
+https://user-images.githubusercontent.com/35795986/118737853-9259d580-b7fa-11eb-916c-7eda9b9d49da.mov
+
+
