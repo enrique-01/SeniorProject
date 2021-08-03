@@ -12,7 +12,7 @@ NumPy
 
 All our coding was done on Jupyter Notebook for easy visualization.
 
-Running the code requires the following libraries, python, and Jupyter Notebook to run the .ipynb. 
+Running the code requires the following libraries, python, and Jupyter Notebook to run the old.ipynb. 
 
 
 ![Video Demo](https://github.com/enrique-01/SeniorProject/blob/main/2021-08-03%2000-32-52%20(2).mp4)
