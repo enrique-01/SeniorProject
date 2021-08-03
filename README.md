@@ -7,6 +7,6 @@ Currently we are able to create monocular Depth Maps by using the MiDaS 2.1 mode
 
 
 
-https://user-images.githubusercontent.com/35795986/118737853-9259d580-b7fa-11eb-916c-7eda9b9d49da.mov
+https://github.com/enrique-01/SeniorProject/blob/main/2021-08-03%2000-32-52%20(2).mp4
 
 
